@@ -222,7 +222,7 @@ class VistaApp extends JFrame {
 }
 
 // 3. EL CONTROLADOR (El "Supervisor Lógico")
-
+// Controlador principal de la aplicación
 class ControladorApp {
     private VistaApp vista;
     private GestorEventos modelo;
