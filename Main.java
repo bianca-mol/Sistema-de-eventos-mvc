@@ -49,7 +49,7 @@ class VistaApp extends JFrame {
     public JRadioButton rbWeekly = new JRadioButton("Weekly");
     public JRadioButton rbMonthly = new JRadioButton("Monthly");
     public JCheckBox chkAlarm = new JCheckBox("Alarm");
-    public JButton btnSave = new JButton("Save");
+    public JButton btnSave = new JButton("Guardar");
     public JButton btnClean = new JButton("Clean");
 
     // --- Pestaña 2: Events (Tabla) ---
